@@ -1,0 +1,45 @@
+html, body {
+  overflow: hidden; /* prevent scrolling */
+}
+body {
+  font-family: 'Press Start 2P';
+  background-image: url('weatherart.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+  padding: 50px;
+  min-height: 100vh;
+  margin: 0;
+}
+@font-face {
+    font-family: 'Press Start 2P';
+    src: url('PressStart2P-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+#result {
+  font-family: 'Press Start 2P';
+  margin-top: 20px;
+  font-size: 15px;
+}
+
+input, button {
+  font-family: 'Press Start 2P';
+  padding: 10px;
+  font-size: 1em;
+  margin: 5px;
+  border-radius: 5px;
+  border: none;
+}
+
+button {
+  background-color: #172e78;
+  color: white;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #1d3a98;
+}
+
