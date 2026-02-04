@@ -46,3 +46,14 @@ Before running the project locally, make sure you have the following installed o
 6. Open your browser at:
    ```bash
    http://localhost:3000/
+
+## Demo
+
+You can watch a demo of the WeatherQuest project here:
+
+[View on YouTube](https://www.youtube.com/watch?v=0wq5nuwI72g)
+
+Or click the thumbnail to watch:
+
+[![Watch the demo](https://img.youtube.com/vi/0wq5nuwI72g/0.jpg)](https://www.youtube.com/watch?v=0wq5nuwI72g)
+
